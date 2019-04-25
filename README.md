@@ -4,6 +4,7 @@ Shopping Cart is an e-commerce website which deals with sales of different produ
 *Features:*
 
 * Collection of products displayed on website
+* Product displayed under different categories
 * Customer registers into the website
 * Customer can choose a product and add to his cart
 * Customer can check out with bought items

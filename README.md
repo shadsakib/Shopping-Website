@@ -1,7 +1,12 @@
 # Shopping Cart
 Shopping Cart is an e-commerce website which deals with sales of different products online. 
 
-*Features:*
+### Tools:
+* Notepad++
+* XAMP
+* PHP MYSQL 
+
+# Features:
 
 * Collection of products displayed on website
 * Product displayed under different categories

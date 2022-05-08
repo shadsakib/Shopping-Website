@@ -1,4 +1,4 @@
-# Shopping Cart
+# Shopping Website
 Shopping Cart is an e-commerce website which deals with sales of different products online. 
 
 ### Tools:
